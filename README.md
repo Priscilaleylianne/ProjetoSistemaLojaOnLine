@@ -13,7 +13,7 @@ Este projeto consiste no desenvolvimento de um **Sistema de Loja Online** utiliz
 
 O sistema foi modelado para simular operações básicas de um e-commerce.
 
-### 🔹 Classes Principais:
+### Classes Principais:
 
 * **Produto** – representa itens da loja.
 * **Carrinho** – gerencia produtos adicionados por um cliente.

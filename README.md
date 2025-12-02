@@ -1,5 +1,8 @@
 # README – Sistema de Loja Online em C++
 
+Este repositório reúne o desenvolvimento completo de um Sistema de Loja Online implementado em C++, aplicando Programação Orientada a Objetos (POO), Modelagem UML e integração com uma API REST utilizando cpp-httplib.
+O projeto foi estruturado com foco educacional, demonstrando desde a modelagem conceitual até a implementação prática de um sistema modular e escalável.
+
 ## Sobre o Projeto
 
 Este projeto consiste no desenvolvimento de um **Sistema de Loja Online** utilizando **C++**, aplicando conceitos de **Programação Orientada a Objetos (POO)**, **Modelagem UML** e posteriormente a implementação de uma **API REST** utilizando a biblioteca **cpp-httplib**. O objetivo é demonstrar a estruturação de um sistema real, modular e escalável.

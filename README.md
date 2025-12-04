@@ -227,3 +227,13 @@ g++ api.cpp -o server -std=c++17
 * Código-fonte completo
 * Exemplos de testes
 * Prints da API funcionando
+
+--- 
+
+## Alunos:
+- ANA JULIA DAMASCENO GALDINO DE SOUZA
+- BRUNO SIMOES AMORIM
+- HELIO EMANUEL PEREIRA DE ARAUJO
+- HENRIQUE GABRIEL DA FONSECA ALCANTARINO
+- LEO FELIPE DOS SANTOS PINTO
+- MIGUEL ANGEL ROA RONDON
